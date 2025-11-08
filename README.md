@@ -43,3 +43,11 @@ Con las lineas como se ve en la imágen:
 - tienda4 = pd.read_csv(tienda_4.csv)
 <img width="1493" height="636" alt="image" src="https://github.com/user-attachments/assets/249d5fee-ef4b-478e-b426-5ab57645ed68" />
 
+## _Se presenta el Archivo con el Reto completado_:
+**Descargalo:** [AluraStoreChallenge_Completo.ipynb](https://github.com/user-attachments/files/23434295/AluraStoreChallenge_Completo.ipynb) </br>
+ _Se muestra una imagen del Archivo:_ **AluraStoreChallenge_Completo.ipynb**
+ El Archivo tiene un Indice y secciones muy bien diferenciadas. </br> Todo esto te ayudada para al momento de ejecuarlo Puedas seguir la secuencia del Análisis.</br>
+<img width="1590" height="731" alt="image" src="https://github.com/user-attachments/assets/91aa2445-3cd5-4e2a-9b20-c8945d34338f" />
+ _También Puedes ver que Todo el Codigo esta comentado para una mejor comprensión del mismo._
+ <img width="786" height="693" alt="image" src="https://github.com/user-attachments/assets/2418465d-53d6-44bd-9953-1f0682b6f198" />
+
